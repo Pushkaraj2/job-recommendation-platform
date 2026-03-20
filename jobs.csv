@@ -1,0 +1,101 @@
+job_id,job_title,required_skills,experience_level,education_required
+1001,Data Analyst,"React, HTML, Cloud Computing",Entry,PhD
+1002,Software Engineer,"Project Management, Java, Cloud Computing",Senior,Masters
+1003,Software Engineer,"Machine Learning, Project Management, Java",Mid,Bachelors
+1004,Frontend Developer,"Python, Machine Learning, React",Mid,Masters
+1005,Data Analyst,"React, SQL, Python",Entry,Masters
+1006,Frontend Developer,"HTML, Cloud Computing, CSS",Mid,PhD
+1007,Software Engineer,"CSS, Java, Data Analysis",Senior,PhD
+1008,Project Manager,"Java, Machine Learning, Data Analysis",Senior,PhD
+1009,Data Analyst,"Data Analysis, Machine Learning, SQL",Mid,Masters
+1010,Project Manager,"Python, Project Management, Data Analysis",Entry,Bachelors
+1011,Frontend Developer,"Project Management, SQL, Data Analysis",Senior,Masters
+1012,Software Engineer,"SQL, Java, Data Analysis",Mid,Bachelors
+1013,Data Scientist,"HTML, Cloud Computing, SQL",Entry,Masters
+1014,Data Scientist,"Python, React, Data Analysis",Mid,Bachelors
+1015,Data Scientist,"Project Management, SQL, React",Entry,Bachelors
+1016,Project Manager,"Java, HTML, CSS",Mid,Bachelors
+1017,Software Engineer,"CSS, Project Management, Python",Mid,Masters
+1018,Frontend Developer,"Project Management, Python, Java",Mid,PhD
+1019,Data Analyst,"React, Python, SQL",Entry,Masters
+1020,Software Engineer,"Data Analysis, HTML, Cloud Computing",Senior,Bachelors
+1021,Software Engineer,"Java, Data Analysis, Python",Mid,PhD
+1022,Frontend Developer,"CSS, HTML, Python",Senior,Masters
+1023,Frontend Developer,"CSS, Java, Data Analysis",Senior,PhD
+1024,Data Analyst,"Cloud Computing, React, HTML",Entry,Bachelors
+1025,Software Engineer,"Python, Java, Cloud Computing",Senior,Bachelors
+1026,Software Engineer,"Machine Learning, Python, HTML",Mid,Bachelors
+1027,Software Engineer,"Project Management, React, Python",Entry,Bachelors
+1028,Project Manager,"SQL, CSS, React",Entry,Masters
+1029,Data Analyst,"Java, CSS, Cloud Computing",Senior,PhD
+1030,Frontend Developer,"Python, HTML, SQL",Mid,Masters
+1031,Frontend Developer,"SQL, HTML, Cloud Computing",Senior,PhD
+1032,Data Scientist,"HTML, Cloud Computing, Data Analysis",Mid,Masters
+1033,Data Analyst,"SQL, Project Management, Java",Senior,Masters
+1034,Software Engineer,"Data Analysis, SQL, Java",Senior,Masters
+1035,Data Analyst,"Data Analysis, Machine Learning, Cloud Computing",Senior,Masters
+1036,Frontend Developer,"Cloud Computing, HTML, Java",Mid,Bachelors
+1037,Data Scientist,"Data Analysis, SQL, Project Management",Mid,Bachelors
+1038,Frontend Developer,"Java, HTML, Cloud Computing",Senior,PhD
+1039,Frontend Developer,"Project Management, SQL, CSS",Entry,Masters
+1040,Data Scientist,"Java, SQL, Project Management",Senior,Masters
+1041,Frontend Developer,"SQL, HTML, Project Management",Senior,PhD
+1042,Data Analyst,"Cloud Computing, HTML, Java",Mid,PhD
+1043,Data Analyst,"Java, HTML, CSS",Senior,Bachelors
+1044,Frontend Developer,"Data Analysis, Java, Project Management",Mid,Masters
+1045,Project Manager,"HTML, Project Management, Machine Learning",Mid,PhD
+1046,Software Engineer,"HTML, Project Management, React",Senior,PhD
+1047,Software Engineer,"Data Analysis, Project Management, HTML",Senior,PhD
+1048,Project Manager,"Project Management, Python, React",Senior,PhD
+1049,Software Engineer,"Machine Learning, CSS, Data Analysis",Senior,PhD
+1050,Software Engineer,"Machine Learning, Data Analysis, Python",Mid,Masters
+1051,Project Manager,"Machine Learning, HTML, Project Management",Entry,Bachelors
+1052,Project Manager,"Cloud Computing, CSS, HTML",Entry,PhD
+1053,Software Engineer,"HTML, CSS, Python",Entry,Bachelors
+1054,Data Analyst,"Project Management, React, Python",Entry,PhD
+1055,Data Scientist,"Machine Learning, HTML, React",Mid,PhD
+1056,Frontend Developer,"SQL, Python, Java",Senior,Masters
+1057,Project Manager,"Python, Machine Learning, SQL",Mid,Bachelors
+1058,Frontend Developer,"Python, React, Java",Senior,PhD
+1059,Data Analyst,"Java, Python, Machine Learning",Mid,Bachelors
+1060,Data Analyst,"Data Analysis, Python, SQL",Senior,Masters
+1061,Frontend Developer,"Python, CSS, React",Mid,PhD
+1062,Data Analyst,"Data Analysis, React, Machine Learning",Mid,Masters
+1063,Software Engineer,"Data Analysis, Machine Learning, CSS",Mid,Masters
+1064,Project Manager,"HTML, Data Analysis, Machine Learning",Entry,PhD
+1065,Frontend Developer,"Project Management, HTML, Machine Learning",Entry,Bachelors
+1066,Frontend Developer,"Project Management, React, CSS",Senior,Masters
+1067,Software Engineer,"Java, SQL, Cloud Computing",Entry,Masters
+1068,Project Manager,"Machine Learning, Cloud Computing, Data Analysis",Senior,PhD
+1069,Frontend Developer,"Data Analysis, Python, Cloud Computing",Mid,Bachelors
+1070,Data Scientist,"Machine Learning, Python, Cloud Computing",Senior,PhD
+1071,Software Engineer,"Data Analysis, Python, Machine Learning",Mid,Masters
+1072,Data Scientist,"Python, Machine Learning, Data Analysis",Mid,Masters
+1073,Software Engineer,"SQL, Cloud Computing, Machine Learning",Entry,Masters
+1074,Data Analyst,"Cloud Computing, SQL, Project Management",Mid,PhD
+1075,Software Engineer,"Java, Project Management, Python",Mid,Masters
+1076,Software Engineer,"CSS, Java, SQL",Senior,Masters
+1077,Data Scientist,"Cloud Computing, Python, HTML",Entry,Bachelors
+1078,Data Scientist,"Java, React, HTML",Mid,PhD
+1079,Data Analyst,"Java, Python, React",Senior,Bachelors
+1080,Project Manager,"React, Machine Learning, Project Management",Entry,Masters
+1081,Project Manager,"HTML, Java, Python",Mid,PhD
+1082,Frontend Developer,"SQL, Data Analysis, Java",Entry,Masters
+1083,Data Analyst,"Project Management, Python, React",Mid,PhD
+1084,Data Scientist,"CSS, SQL, Java",Senior,Masters
+1085,Software Engineer,"Python, CSS, Data Analysis",Mid,PhD
+1086,Data Scientist,"HTML, CSS, Cloud Computing",Senior,PhD
+1087,Data Scientist,"Project Management, SQL, Java",Senior,Bachelors
+1088,Data Analyst,"Project Management, Cloud Computing, Data Analysis",Entry,Masters
+1089,Frontend Developer,"SQL, Python, Cloud Computing",Entry,Bachelors
+1090,Data Analyst,"Machine Learning, SQL, Project Management",Mid,Masters
+1091,Data Scientist,"CSS, SQL, React",Mid,Bachelors
+1092,Project Manager,"HTML, Project Management, Data Analysis",Mid,PhD
+1093,Data Analyst,"Python, SQL, Data Analysis",Senior,Bachelors
+1094,Frontend Developer,"Cloud Computing, Data Analysis, Project Management",Mid,Bachelors
+1095,Frontend Developer,"SQL, HTML, Data Analysis",Mid,PhD
+1096,Data Analyst,"SQL, Python, React",Mid,Masters
+1097,Data Analyst,"CSS, HTML, Python",Entry,Masters
+1098,Data Scientist,"SQL, Java, Data Analysis",Senior,Masters
+1099,Software Engineer,"Java, Data Analysis, Machine Learning",Entry,Masters
+1100,Data Scientist,"HTML, React, SQL",Senior,Masters

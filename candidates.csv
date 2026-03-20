@@ -1,0 +1,51 @@
+candidate_id,candidate_name,skills,experience_years,education
+1,Candidate_1,"Cloud Computing, CSS, Project Management",0,Bachelors
+2,Candidate_2,"HTML, Cloud Computing, Machine Learning",8,Bachelors
+3,Candidate_3,"HTML, SQL, Machine Learning",4,Masters
+4,Candidate_4,"React, Machine Learning, HTML",10,Bachelors
+5,Candidate_5,"CSS, Machine Learning, Data Analysis",9,PhD
+6,Candidate_6,"CSS, SQL, Project Management",4,Bachelors
+7,Candidate_7,"Cloud Computing, Python, Data Analysis",0,Masters
+8,Candidate_8,"Python, Java, Project Management",0,PhD
+9,Candidate_9,"Python, Java, CSS",10,PhD
+10,Candidate_10,"CSS, Python, Machine Learning",9,Bachelors
+11,Candidate_11,"Machine Learning, Java, React",2,PhD
+12,Candidate_12,"Cloud Computing, CSS, React",1,Masters
+13,Candidate_13,"Project Management, Machine Learning, React",9,Bachelors
+14,Candidate_14,"Data Analysis, Project Management, HTML",6,Bachelors
+15,Candidate_15,"React, Data Analysis, Python",0,Masters
+16,Candidate_16,"HTML, SQL, Data Analysis",0,Masters
+17,Candidate_17,"Project Management, Data Analysis, React",4,Masters
+18,Candidate_18,"Machine Learning, Data Analysis, CSS",6,PhD
+19,Candidate_19,"Project Management, React, Java",9,Masters
+20,Candidate_20,"SQL, Machine Learning, React",5,PhD
+21,Candidate_21,"React, Machine Learning, HTML",5,Masters
+22,Candidate_22,"SQL, Data Analysis, Machine Learning",0,PhD
+23,Candidate_23,"React, Java, SQL",3,Bachelors
+24,Candidate_24,"SQL, HTML, Project Management",0,PhD
+25,Candidate_25,"React, Machine Learning, CSS",2,Masters
+26,Candidate_26,"Python, Data Analysis, SQL",4,Masters
+27,Candidate_27,"Cloud Computing, Project Management, Machine Learning",5,Masters
+28,Candidate_28,"Cloud Computing, CSS, Java",9,PhD
+29,Candidate_29,"Java, HTML, Machine Learning",6,Masters
+30,Candidate_30,"Python, Java, SQL",9,Masters
+31,Candidate_31,"HTML, Cloud Computing, Machine Learning",1,Masters
+32,Candidate_32,"Data Analysis, Project Management, Cloud Computing",8,Masters
+33,Candidate_33,"HTML, Data Analysis, SQL",4,Bachelors
+34,Candidate_34,"Cloud Computing, Data Analysis, CSS",9,Bachelors
+35,Candidate_35,"Machine Learning, CSS, Data Analysis",2,Masters
+36,Candidate_36,"HTML, CSS, Java",9,PhD
+37,Candidate_37,"Project Management, SQL, React",1,Masters
+38,Candidate_38,"SQL, Java, CSS",9,Masters
+39,Candidate_39,"Data Analysis, HTML, Cloud Computing",0,Bachelors
+40,Candidate_40,"Machine Learning, Java, Python",10,PhD
+41,Candidate_41,"React, Cloud Computing, Java",9,PhD
+42,Candidate_42,"Machine Learning, Python, Data Analysis",7,Masters
+43,Candidate_43,"Project Management, React, Java",8,Masters
+44,Candidate_44,"Java, HTML, Data Analysis",6,Bachelors
+45,Candidate_45,"React, Python, SQL",5,Bachelors
+46,Candidate_46,"Cloud Computing, Machine Learning, React",2,Bachelors
+47,Candidate_47,"Project Management, CSS, SQL",4,PhD
+48,Candidate_48,"Machine Learning, SQL, React",4,Bachelors
+49,Candidate_49,"Project Management, CSS, Java",9,PhD
+50,Candidate_50,"CSS, HTML, Python",0,Masters
