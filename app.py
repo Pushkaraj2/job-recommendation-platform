@@ -28,7 +28,7 @@ skill_icons = {
 }
 
 # Initialization
-st.set_page_config(page_title="JobAI Pro", layout="wide")
+st.set_page_config(page_title="Job recommendation 🧙‍♂️", layout="wide")
 jobs = pd.read_csv('jobs.csv')
 jobs['combined'] = jobs['required_skills'] + " " + jobs['experience_level'] + " " + jobs['education_required']
 
