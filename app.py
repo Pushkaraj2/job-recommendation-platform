@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# PAGE CONFIG
+# Page config
 st.set_page_config(page_title="JobAI Pro", page_icon="💼", layout="wide")
 # LOAD DATA
 jobs = pd.read_csv('jobs.csv')
@@ -13,7 +13,7 @@ jobs['combined'] = jobs['required_skills'] + " " + jobs['experience_level'] + " 
 vectorizer = TfidfVectorizer(ngram_range=(1, 2))
 tfidf_matrix = vectorizer.fit_transform(jobs['combined'])
 
-#SIDEBAR
+#Sidebar
 st.sidebar.header("Project Metrics")
 st.sidebar.metric("Total Jobs Indexed", len(jobs))
 st.sidebar.info("Model: Content-Based Filtering using TF-IDF & Cosine Similarity.")
